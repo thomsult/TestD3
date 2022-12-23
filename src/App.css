@@ -1,0 +1,15 @@
+.App{
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+circle{
+  fill: #888888;
+  stroke: #f5f5f5;
+  stroke-width: 2;
+}
+line{
+  stroke: #050505;
+  stroke-width: 2;
+}
